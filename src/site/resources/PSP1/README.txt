@@ -6,3 +6,4 @@ Intrucciones para descargar el codigo fuente desde GitHub: git clone https://git
 Instrucciones para compilar el codigo fuente: Ejecute el comando mvn package desde psp1-program-2
 Instrucciones para ejecutar el programa: Ejecute el programa desde target/classes utilizando el comando: java co.edu.uniandes.ecos.csof5101.psp1.controlador.LanzarProgram2 <ruta_directorio>
 										 Ejemplo: java co.edu.uniandes.ecos.csof5101.psp1.controlador.LanzarProgram2 C:\directorioJava
+										 
